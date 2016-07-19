@@ -1,0 +1,6 @@
+applications:
+ - disk_quota: 2048
+   memory: 256
+   name: TestBuildJenkins
+   path: target/HelloMJenkins-0.0.1-SNAPSHOT.war
+
