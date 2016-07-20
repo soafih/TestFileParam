@@ -4,4 +4,3 @@ applications:
    name: TestBuildJenkins
    host:tbj
    path: target/HelloMJenkins-0.0.1-SNAPSHOT.war
-
